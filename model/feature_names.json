@@ -1,0 +1,38 @@
+{
+  "numeric": [
+    "age",
+    "annual_income",
+    "credit_score",
+    "employment_years",
+    "num_late_payments",
+    "utilization_rate",
+    "num_credit_lines",
+    "loan_amount",
+    "loan_term_months",
+    "debt_to_income"
+  ],
+  "categorical": [
+    "home_ownership",
+    "loan_purpose"
+  ],
+  "all": [
+    "age",
+    "annual_income",
+    "credit_score",
+    "employment_years",
+    "num_late_payments",
+    "utilization_rate",
+    "num_credit_lines",
+    "loan_amount",
+    "loan_term_months",
+    "debt_to_income",
+    "home_ownership_MORTGAGE",
+    "home_ownership_OWN",
+    "home_ownership_RENT",
+    "loan_purpose_BUSINESS",
+    "loan_purpose_DEBT_CONSOLIDATION",
+    "loan_purpose_EDUCATION",
+    "loan_purpose_HOME_IMPROVEMENT",
+    "loan_purpose_MEDICAL"
+  ]
+}
