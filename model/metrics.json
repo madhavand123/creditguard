@@ -1,0 +1,40 @@
+{
+  "roc_auc": 0.745,
+  "accuracy": 0.7175,
+  "precision": 0.453,
+  "recall": 0.5934,
+  "f1": 0.5138,
+  "confusion_matrix": [
+    [
+      2273,
+      721
+    ],
+    [
+      409,
+      597
+    ]
+  ],
+  "default_rate": 0.2516,
+  "train_size": 16000,
+  "test_size": 4000,
+  "feature_importance": {
+    "credit_score": 0.5094799995422363,
+    "num_late_payments": 0.4652099907398224,
+    "utilization_rate": 0.2811200022697449,
+    "debt_to_income": 0.2697100043296814,
+    "employment_years": 0.23781000077724457,
+    "home_ownership_RENT": 0.22346000373363495,
+    "loan_purpose_HOME_IMPROVEMENT": 0.1609400063753128,
+    "loan_purpose_BUSINESS": 0.14544999599456787,
+    "annual_income": 0.09130000323057175,
+    "loan_amount": 0.08552999794483185,
+    "loan_term_months": 0.06864000111818314,
+    "age": 0.06772000342607498,
+    "num_credit_lines": 0.05581999942660332,
+    "home_ownership_MORTGAGE": 0.03471999987959862,
+    "loan_purpose_DEBT_CONSOLIDATION": 0.016589999198913574,
+    "home_ownership_OWN": 0.014589999802410603,
+    "loan_purpose_EDUCATION": 0.01066999975591898,
+    "loan_purpose_MEDICAL": 0.007069999817758799
+  }
+}
