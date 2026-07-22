@@ -28,7 +28,6 @@ CreditGuard takes 12 facts about a borrower (income, credit score, existing debt
 
 The dataset is synthetically generated rather than pulled from a real lender (see [Limitations](#-limitations)), so the project can be published and demoed without any privacy concerns, while the statistical relationships in the data (higher credit score → lower risk, more late payments → higher risk, etc.) are modeled to reflect real credit behavior.
 
-For a detailed, section-by-section walkthrough of the codebase, see `10_DAY_GUIDE.md`.
 
 ---
 
